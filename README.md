@@ -11,6 +11,7 @@
 ### Medium
 - [Group Anagrams]
 ### Hard
+- [Minimum Window Substring]
 
 <div align="center">
 <pre>
