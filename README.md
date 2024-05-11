@@ -9,9 +9,9 @@
 - [Fizzbuzz](Easy/fizzbuzz.py)
 - [Contains Duplicate](Easy/contains_duplicate.py)
 ### Medium
-- [Group Anagrams]
+- [Group Anagrams](https://leetcode.com/problems/minimum-window-substring/description/)
 ### Hard
-- [Minimum Window Substring]
+- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
 
 <div align="center">
 <pre>
