@@ -13,5 +13,5 @@
 
 <div align="center">
 <pre>
-LeetCode Solutions
+Izzat Karimov
 </pre>
