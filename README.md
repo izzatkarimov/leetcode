@@ -5,6 +5,7 @@
 ## Navigationa
 
 ### Easy
+- [Two Sum](Easy/two_sum.py)
 ### Medium
 ### Hard
 
