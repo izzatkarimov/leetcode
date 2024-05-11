@@ -13,6 +13,5 @@
 
 <div align="center">
 <pre>
-
 LeetCode Solutions
 </pre>
