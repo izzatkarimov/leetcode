@@ -9,6 +9,7 @@
 - [Fizzbuzz](Easy/fizzbuzz.py)
 - [Contains Duplicate](Easy/contains_duplicate.py)
 ### Medium
+- [Group Anagrams]
 ### Hard
 
 <div align="center">
