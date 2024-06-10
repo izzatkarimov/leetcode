@@ -5,13 +5,26 @@
 ## Solutions
 
 ### Easy
-- [Two Sum](Easy/two_sum.py)
-- [Fizzbuzz](Easy/fizzbuzz.py)
-- [Contains Duplicate](Easy/contains_duplicate.py)
+
+| Problem Title | Solution |
+| --- | --- |
+| Two Sum | [Solution](Easy/two_sum.py) |
+| Fizzbuzz | [Solution](Easy/fizzbuzz.py) |
+| Contains Duplicate | [Solution](Easy/contains_duplicate.py) |
+
 ### Medium
-- [Group Anagrams](https://leetcode.com/problems/minimum-window-substring/description/)
+
+| Problem Title | Solution |
+| --- | --- |
+| Group Anagrams | [Solution](https://leetcode.com/problems/minimum-window-substring/description/) |
+
 ### Hard
-- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
+
+| Problem Title | Solution |
+| --- | --- |
+| Minimum Window Substring | [Solution](https://leetcode.com/problems/minimum-window-substring/description/) |
+
+----
 
 <div align="center">
 <pre>
