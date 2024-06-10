@@ -7,7 +7,7 @@
 ### Easy
 
 | Problem Title | Solution |
-| --- | --- |
+| :--- | :--- |
 | Two Sum | [Solution](Easy/two_sum.py) |
 | Fizzbuzz | [Solution](Easy/fizzbuzz.py) |
 | Contains Duplicate | [Solution](Easy/contains_duplicate.py) |
@@ -15,13 +15,13 @@
 ### Medium
 
 | Problem Title | Solution |
-| --- | --- |
+| :--- | :--- |
 | Group Anagrams | [Solution](https://leetcode.com/problems/minimum-window-substring/description/) |
 
 ### Hard
 
 | Problem Title | Solution |
-| --- | --- |
+| :--- | :--- |
 | Minimum Window Substring | [Solution](https://leetcode.com/problems/minimum-window-substring/description/) |
 
 ----
