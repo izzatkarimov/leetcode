@@ -8,9 +8,10 @@
 
 | Problem Title | Solution |
 | :--- | :--- |
-| Two Sum | [Solution](Easy/two_sum.py) |
-| Fizzbuzz | [Solution](Easy/fizzbuzz.py) |
-| Contains Duplicate | [Solution](Easy/contains_duplicate.py) |
+| Contains Duplicate | [Solution](Easy/217.contains_duplicate.py) |
+| Valid Anagram | [Solution](Easy/242.valid_anagram.py) | 
+| Two Sum | [Solution](Easy/01.two_sum.py) |
+| Fizzbuzz | [Solution](Easy/412.fizzbuzz.py) |
 
 ### Medium
 
