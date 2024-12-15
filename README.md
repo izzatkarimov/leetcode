@@ -22,10 +22,3 @@
 | Problem Title | Solution |
 | :--- | :--- |
 | Minimum Window Substring | [Solution](https://leetcode.com/problems/minimum-window-substring/description/) |
-
-----
-
-<div align="center">
-<pre>
-Izzat Karimov
-</pre>
