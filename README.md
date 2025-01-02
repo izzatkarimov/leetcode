@@ -1,7 +1,5 @@
 ## Leetcode Solutions
 
----
-
 | #   | Title                  | Solution | Difficulty |
 |-----|------------------------|-|----|
 | 01  | [Two Sum]()            | [C++](./Easy/two_sum.cpp)| Easy |
