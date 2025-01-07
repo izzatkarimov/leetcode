@@ -15,6 +15,7 @@
 
 | #   | Title                  | Solution | Difficulty |
 |-----|------------------------|-|----|
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)| [C++](/Medium/347.top_k_frequent_elements.cpp) | Medium | 
 
 ### Hard
 
