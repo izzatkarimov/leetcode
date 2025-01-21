@@ -5,6 +5,7 @@
 | #   | Title                  | Solution | Difficulty |
 |-----|------------------------|-|----|
 | 01  | [Two Sum](https://leetcode.com/problems/two-sum/description/)            | [C++](./Easy/two_sum.cpp)| Easy |
+| 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)            | [C++](./Easy/20.valid_parentheses.cpp)| Easy |
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [C++](./Easy/26.remove_duplicates_from_sorted_array.cpp) | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [C++](./Easy/contains_duplicate.cpp)| Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)      |[C++](./Easy/contains_duplicate.cpp)|  Easy |
