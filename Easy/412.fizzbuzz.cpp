@@ -1,21 +1,22 @@
 class Solution {
 public:
     vector<string> fizzBuzz(int n) {
-        vector<string> answer;
-        for (int i = 1; i <= n; i++) {
-            string temp = "";
-
+        vector<string> result(n);
+        for (int i = 1; i <= n; ++i) {
             if (i % 3 == 0 && i % 5 == 0) {
-                temp = "FizzBuzz";
+                result[i - 1] = "FizzBuzz";
             } else if (i % 3 == 0) {
-                temp = "Fizz";
+                result[i - 1] = "Fizz";
             } else if (i % 5 == 0) {
-                temp = "Buzz";
+                result[i - 1] = "Buzz";
             } else {
-                temp = to_string(i);
+                result[i - 1] = to_string(i);
             }
-            answer.push_back(temp);
+
         }
-        return answer;
+        return result;
     }
 };
+
+// Time: O(n)
+// Space: O(n)
