@@ -20,20 +20,20 @@ public:
 
 class Solution {
 public:
-    int maxArea(vector<int>& heights) {
+    int maxArea(vector<int>& height) {
         int l = 0;                       // Initialize left pointer
-        int r = heights.size() - 1;      // Initialize right pointer
+        int r = height.size() - 1;      // Initialize right pointer
         int result = 0;                  // To store the maximum area
 
         while (l < r) {
             // Calculate area
-            int area = min(heights[l], heights[r]) * (r - l);
+            int area = min(height[l], height[r]) * (r - l);
 
             // Update maximum area
             result = max(result, area);
 
             // Move the pointer pointing to the shorter line
-            if (heights[l] <= heights[r]) {
+            if (height[l] <= height[r]) {
                 l++;
             } else {
                 r--;
