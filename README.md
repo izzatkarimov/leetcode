@@ -28,3 +28,4 @@
 
 | #   | Title                  | Solution | Difficulty |
 |-----|------------------------|-|----|
+| 42 | [Trapping_Rain_Water](https://leetcode.com/problems/trapping-rain-water/description/)| [C++](/Hard/42.trapping_rain_water.cpp) | Hard | 
