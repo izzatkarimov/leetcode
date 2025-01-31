@@ -17,6 +17,7 @@
 
 | #   | Title                  | Solution | Difficulty |
 |-----|------------------------|-|----|
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)| [C++](/Medium/22.generate_parentheses.cpp) | Medium |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)| [C++](/Medium/36.valid_sudoku.cpp) | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)| [C++](/Medium/49.group_anagrams.cpp) | Medium |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)| [C++](/Medium/128.longest_consecutive_sequence.cpp) | Medium |
